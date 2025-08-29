@@ -1,0 +1,10 @@
+aiogram==3.3.0
+fastapi==0.111.0
+uvicorn[standard]==0.30.0
+python-dotenv==1.0.1
+redis[asyncio]==5.0.4
+pymupdf==1.24.0
+camelot-py[cv]==0.11.0
+pikepdf==9.2.0
+reportlab==4.1.0
+ocrmypdf==16.0.2
